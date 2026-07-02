@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sanskar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Hi%20there,%20I'm%20Sanskar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20%2B%20FastAPI%20%7C%20ML%20%26%20Computer%20Vision&descAlignY=55&descSize=18" alt="animated header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Django+%2B+FastAPI;Machine+Learning+%26+Computer+Vision;Building+KestrelAI+%7C+FaceSecure+Edge;Always+shipping+something+new" alt="Typing SVG" />
@@ -80,11 +82,13 @@ Offline facial authentication and liveness detection module built for on-device,
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanskkrr/sanskkrr/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanskkrr/sanskkrr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanskkrr/sanskkrr/output/github-contribution-grid-snake.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/sanskkrr/sanskkrr/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
 
-> ⚠️ The snake animation needs a one-time GitHub Actions setup — see instructions below.
+> This appears automatically once the `snake.yml` workflow (below) has run at least once.
 
 ---
 
