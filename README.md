@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanskar</h1>
 
-<!--
-**sanskkrr/sanskkrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Django+%2B+FastAPI;Machine+Learning+%26+Computer+Vision;Building+KestrelAI+%7C+FaceSecure+Edge;Always+shipping+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanskkrr&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
+  <a href="https://github.com/sanskkrr?tab=followers"><img src="https://img.shields.io/github/followers/sanskkrr?label=Followers&style=flat&color=2E9EF7" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🐍 Python developer — **Django** & **FastAPI** for backend
+- 👁️ Deep into **Machine Learning** and **Computer Vision**
+- 🚀 Currently building **KestrelAI** (UAV object detection) and **FaceSecure Edge** (offline facial auth)
+- 🏆 Active in national-level hackathons
+- 📫 Reach me on GitHub — [@sanskkrr](https://github.com/sanskkrr)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,pytorch,opencv,tensorflow,git,github,docker,linux,vscode,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🦅 [KestrelAI](https://github.com/sanskkrr/KestrelAI)**
+UAV object detection using YOLOv8 + CBAM attention with pseudo-labeling, trained on VisDrone 2019. Includes a Streamlit frontend with Grad-CAM visualization for model explainability.
+
+`YOLOv8` `CBAM` `PyTorch` `Streamlit` `Grad-CAM`
+
+</td>
+<td width="50%">
+
+**🔒 [FaceSecure Edge](https://github.com/sanskkrr/FaceSecure-Edge)**
+Offline facial authentication and liveness detection module built for on-device, privacy-first identity verification. Combines lightweight face embeddings with anti-spoofing checks.
+
+`MobileFaceNet` `MediaPipe` `TFLite` `SQLite`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskkrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskkrr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskkrr&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskkrr&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanskkrr/sanskkrr/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚠️ The snake animation needs a one-time GitHub Actions setup — see instructions below.
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/sanskkrr">sanskkrr</a> — always building.</i></p>
