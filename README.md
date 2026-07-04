@@ -15,11 +15,11 @@
 
 ### 🧠 About Me
 
-- 🐍 Python developer — **Django** & **FastAPI** for backend
-- 👁️ Deep into **Machine Learning** and **Computer Vision**
-- 🚀 Currently building **KestrelAI** (UAV object detection) and **FaceSecure Edge** (offline facial auth)
-- 🏆 Active in national-level hackathons
-- 📫 Reach me on GitHub — [@sanskkrr](https://github.com/sanskkrr)
+-  Python developer — **Django** & **FastAPI** for backend
+-  Deep into **Machine Learning** and **Computer Vision**
+-  Built **KestrelAI** (UAV object detection) and **FaceSecure Edge** (offline facial auth)
+-  Active in hackathons
+-  Reach me on GitHub — [@sanskkrr](https://github.com/sanskkrr)
 
 ---
 
